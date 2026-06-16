@@ -65,4 +65,4 @@ Project developed at the **Tecnológico Nacional de México (Instituto Tecnológ
 
 If this project is useful for your research or academic work, please consider citing it:
 
-> Zamora-Pérez, C.D., & Ordaz-Oliver, M.O. (2026). *ZBUS-ANALYZER: An interactive MATLAB-based environment for algorithmic building of the Bus Impedance Matrix in Power Systems (v1.0.1)*. Zenodo. https://doi.org/10.5281/zenodo.14494951
+> Zamora-Pérez, C.D., & Ordaz-Oliver, M.O. (2026). *ZBUS-ANALYZER: An interactive MATLAB-based environment for algorithmic building of the Bus Impedance Matrix in Power Systems (v1.0.1)*. Zenodo. https://doi.org/10.5281/zenodo.20711215
