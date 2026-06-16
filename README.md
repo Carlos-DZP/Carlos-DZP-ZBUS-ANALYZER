@@ -4,7 +4,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-App_Designer_Components-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Academic](https://img.shields.io/badge/Status-Academic_Research-success.svg)]()
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14494951.svg)](https://doi.org/10.5281/zenodo.20711215) ## Description
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20711215.svg)](https://doi.org/10.5281/zenodo.20711215) ## Description
 **ZBUS-ANALYZER** is an open-source, MATLAB-based interactive environment designed for the algorithmic construction and analysis of the Bus Impedance Matrix ($Z_{bus}$) in Electric Power Systems (EPS). Developed at the Instituto Tecnológico de Pachuca, this tool automates the traditional direct building algorithm, providing step-by-step case logging, dynamic network topology rendering, and automatic Kron reduction for closed loops.
 
 ---
